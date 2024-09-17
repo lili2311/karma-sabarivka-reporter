@@ -46,8 +46,8 @@
   },
   "dependencies": {
     "devmoji": "2.1.9",
-    "globby": "11.0.1",
-    "istanbul-lib-instrument": "4.0.3",
+    "globby": "11.1.0",
+    "istanbul-lib-instrument": "6.0.2",
     "predicates": "2.0.3",
     "snyk": "1.358.0",
     "typescript": "3.9.7"
